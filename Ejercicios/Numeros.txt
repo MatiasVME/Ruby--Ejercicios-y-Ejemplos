@@ -1,0 +1,9 @@
+ 
+Pedir al usuario que ingrese una n cantidad de numeros para después ingresarlos manualmente.
+
+Luego:
+Mostrar el menor de esos numeros
+Mostrar el mayor de esos numeros
+Ordenarlos de forma acendente
+Ordenarlos de forma decendente
+Mostrar el promedio de esos numeros

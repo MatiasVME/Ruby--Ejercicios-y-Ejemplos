@@ -1,0 +1,1 @@
+Crear una clase Dado la cual tenga un método lanzar el cual muestre un valor aleatorio del 1 al 6, esté metodo debe ser invocado desde otra clase principal en la cual se utilize el método de la clase dado 3 veces. 
